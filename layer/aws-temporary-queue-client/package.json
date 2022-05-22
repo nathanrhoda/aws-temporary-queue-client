@@ -1,0 +1,26 @@
+{
+  "name": "aws-temporary-queue-client",
+  "version": "1.0.0",
+  "description": "Client to create and read from temporary queues in aws",
+  "main": "local-aws-client.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanrhoda/aws-temporary-queue-client.git"
+  },
+  "author": "Nathan Rhoda",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1138.0",
+    "uuid": "^8.3.2"
+  },
+  "bugs": {
+    "url": "https://github.com/nathanrhoda/aws-temporary-queue-client/issues"
+  },
+  "homepage": "https://github.com/nathanrhoda/aws-temporary-queue-client#readme"
+}

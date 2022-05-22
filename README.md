@@ -11,4 +11,4 @@ Clients endpoint options
 
 Example of how to use this client can be found in example folder
 
-Building blocks to convert this into a AWS layer can also be found ie. index.js
+Building blocks to convert this into a AWS layer can also be found in layer folder
